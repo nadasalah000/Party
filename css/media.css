@@ -1,0 +1,19 @@
+@media only screen and (max-width: 580px){
+      .date{  
+        font-size: 10px;
+    }
+}
+@media only screen and (max-width: 360px){
+   #homeContent H1{
+    font-size: 25PX;
+   }
+   #Contact P{
+    font-size: 12PX;
+   }
+   form p{
+      font-size: 13px;
+   }
+   #Duration .caption{
+    font-size: 12px;
+   }
+}
